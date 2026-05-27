@@ -7,12 +7,12 @@ This project is an end-to-end data analysis and visualization solution built in 
 
 📂 **Dataset Details**  
 The analysis is based on raw data provided in an Excel format, consisting of three main tables:
-1. Customers Table
-Contains demographic and segmentation data for registered users.
-•	Customer ID: Unique identifier for each customer.
-•	Customer Country: Operating regions (14 distinct countries).
-•	Gender & Age: Demographic markers.
-•	Category: Customer classification cohorts (A, B, C, D, E).
+1. Customers Table  
+Contains demographic and segmentation data for registered users.  
+•	Customer ID: Unique identifier for each customer.  
+•	Customer Country: Operating regions (14 distinct countries).  
+•	Gender & Age: Demographic markers.  
+•	Category: Customer classification cohorts (A, B, C, D, E).  
 2. Orders Table
 Contains transactional log data.
 •	Order ID: Unique identifier for the transaction.
