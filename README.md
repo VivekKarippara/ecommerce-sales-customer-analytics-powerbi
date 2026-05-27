@@ -100,8 +100,7 @@ Model Type
 ✔ Improved business storytelling through dashboards  
 
 ### 📷 Dashboard Preview  
-•	Add dashboard screenshots here
-•	Example:
+![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Customers.png)
 
 ⭐ If you liked this project, consider giving it a star!
 
