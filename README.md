@@ -101,7 +101,7 @@ Insights
 ✔ Discovered customer segment opportunities  
 ✔ Improved business storytelling through dashboards  
 
-###📷 Dashboard Preview  
+### 📷 Dashboard Preview  
 •	Add dashboard screenshots here
 •	Example:
 
