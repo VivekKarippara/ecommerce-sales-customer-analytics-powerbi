@@ -13,20 +13,20 @@ Contains demographic and segmentation data for registered users.
 •	Customer Country: Operating regions (14 distinct countries).  
 •	Gender & Age: Demographic markers.  
 •	Category: Customer classification cohorts (A, B, C, D, E).  
-2. Orders Table
-Contains transactional log data.
-•	Order ID: Unique identifier for the transaction.
-•	Customer ID: Foreign key linking to the Customers table.
-•	Order Datetime: Timestamp of the order (GMT).
-•	Order Source: Platform used for the transaction (App, Website, WhatsApp, Other).
-•	Sales POC: Point of Contact handling the sale.
-•	Order Value: Revenue generated per order (in ₹).
-3. Sales Targets Table
-Contains yearly performance benchmarks for the sales team.
-•	Sales POC: The primary contact.
-•	Sales Manager: The supervising manager.
-•	Sales Team: Alpha, Beta, Gamma, Delta, Epsilon.
-•	2023 Sales Target: Annual revenue goal.
+2. Orders Table  
+Contains transactional log data.  
+•	Order ID: Unique identifier for the transaction.  
+•	Customer ID: Foreign key linking to the Customers table.  
+•	Order Datetime: Timestamp of the order (GMT).  
+•	Order Source: Platform used for the transaction (App, Website, WhatsApp, Other).  
+•	Sales POC: Point of Contact handling the sale.  
+•	Order Value: Revenue generated per order (in ₹).  
+3. Sales Targets Table  
+Contains yearly performance benchmarks for the sales team.  
+•	Sales POC: The primary contact.  
+•	Sales Manager: The supervising manager.  
+•	Sales Team: Alpha, Beta, Gamma, Delta, Epsilon.  
+•	2023 Sales Target: Annual revenue goal.  
 
 
 🛠️ Data Modeling & Transformations
