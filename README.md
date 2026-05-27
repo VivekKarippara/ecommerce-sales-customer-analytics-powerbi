@@ -2,10 +2,10 @@
 
 ## **📊 Global E-Commerce Sales & Customer Analysis (Power BI)**
 
-📖 **Project Overview**  
+### 📖 Project Overview  
 This project is an end-to-end data analysis and visualization solution built in Power BI for a global e-commerce dataset spanning 14 countries. The goal of this project is to analyze transactional data, evaluate sales manager performance against targets, understand regional purchasing behaviours, and uncover actionable insights to optimize marketing and supply chain strategies.
 
-📂 **Dataset Details**  
+### 📂 Dataset Details 
 The analysis is based on raw data provided in an Excel format, consisting of three main tables:
 1. Customers Table  
 Contains demographic and segmentation data for registered users.  
@@ -29,7 +29,7 @@ Contains yearly performance benchmarks for the sales team.
 •	2023 Sales Target: Annual revenue goal.  
 
 
-**🛠️ Data Modeling & Transformations**
+### 🛠️ Data Modeling & Transformations
 
 To ensure a clean and optimized relational model, the following data transformations were performed using Power Query:  
 
@@ -46,24 +46,22 @@ To ensure a clean and optimized relational model, the following data transformat
 Model Type  
 ⭐ Star Schema  
 
-**📈 Dashboard Features & Insights**
+### 📈 Dashboard Features & Insights
 
-**🎯 Sales Target Analysis**
-
-Key Insights
+**Key Insights**
 
 •	Target achievement status of Sales POCs   
 •	Sales Team target comparison   
 •	Sales Manager performance analysis   
 •	% Target completion by team & manager   
 
-KPIs  
+**KPIs**  
 •	Total Sales   
 •	Total Target   
 •	Achievement %   
 •	Repeat Customer Rate   
 
-Visuals Used  
+**Visuals Used**  
 •	Donut Chart   
 •	Ribbon Chart   
 •	KPI Cards   
@@ -71,7 +69,7 @@ Visuals Used
 •	Matrix Table     
 •	Column Chart  
 
-Insights  
+**Insights**  
 •	Countries with highest sales   
 •	Highest average order value   
 •	Best performing sales managers    
@@ -84,7 +82,7 @@ Insights
 •	Non-ordering customer percentage   
 •	Most used order source across countries   
 
-**🛠️ Tools & Technologies**  
+### 🛠️ Tools & Technologies
 •	Power BI Desktop   
 •	Power Query   
 •	DAX   
@@ -92,9 +90,9 @@ Insights
 •	Excel   
 
 
-**📌 Key Business Outcomes**  
+### 📌 Key Business Outcomes 
 
-•	✔ Identified high-performing sales teams  
+✔ Identified high-performing sales teams  
 ✔ Analyzed customer retention behaviour  
 ✔ Detected geographic sales trends  
 ✔ Evaluated sales target achievement  
