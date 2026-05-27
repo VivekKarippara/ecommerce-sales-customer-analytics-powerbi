@@ -29,18 +29,19 @@ Contains yearly performance benchmarks for the sales team.
 •	2023 Sales Target: Annual revenue goal.  
 
 
-🛠️ Data Modeling & Transformations
-To ensure a clean and optimized relational model, the following data transformations were performed using Power Query:
-•	Data Cleansing: Standardized data types (e.g., parsing Order Value to numeric, formatting dates).
-•	Missing Value Imputation: Handled an isolated system bug on April 1st that resulted in null Order Source records by imputing the statistical mode to maintain data integrity without skewing the distribution.
-•	Column Merging: Combined Sales Manager First Name and Sales Manager Last Name into a single Sales Manager column in the Sales Targets table to optimize model size.
-•	Relationships
-Customers[Customer ID] → Orders[Customer ID] 
-Sales Targets[Sales POC] → Orders[Sales POC] 
-Model Type
-⭐ Star Schema
+**🛠️ Data Modeling & Transformations**
 
-📈 Dashboard Features & Insights
+To ensure a clean and optimized relational model, the following data transformations were performed using Power Query:  
+•	Data Cleansing: Standardized data types (e.g., parsing Order Value to numeric, formatting dates).  
+•	Missing Value Imputation: Handled an isolated system bug on April 1st that resulted in null Order Source records by imputing the statistical mode to maintain data integrity without skewing the distribution.  
+•	Column Merging: Combined Sales Manager First Name and Sales Manager Last Name into a single Sales Manager column in the Sales Targets table to optimize model size.  
+•	Relationships  
+             - Customers[Customer ID] → Orders[Customer ID]   
+             - Sales Targets[Sales POC] → Orders[Sales POC]   
+Model Type  
+⭐ Star Schema  
+
+**📈 Dashboard Features & Insights**
 
 🎯 Sales Target Analysis
 Key Insights
