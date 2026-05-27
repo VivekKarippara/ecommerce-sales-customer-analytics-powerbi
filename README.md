@@ -100,7 +100,11 @@ Model Type
 ✔ Improved business storytelling through dashboards  
 
 ### 📷 Dashboard Preview  
+![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Overview.png)
+![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Orders.png)
+![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Sales_Target.png)
 ![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Customers.png)
+![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Sales_Team.png)
 
 ⭐ If you liked this project, consider giving it a star!
 
