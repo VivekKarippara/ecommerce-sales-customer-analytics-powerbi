@@ -1,6 +1,7 @@
 # ecommerce-sales-customer-analytics-powerbi
 
-📊 Global E-Commerce Sales & Customer Analysis (Power BI)
+## **📊 Global E-Commerce Sales & Customer Analysis (Power BI)**
+
 📖 Project Overview
 This project is an end-to-end data analysis and visualization solution built in Power BI for a global e-commerce dataset spanning 14 countries. The goal of this project is to analyze transactional data, evaluate sales manager performance against targets, understand regional purchasing behaviours, and uncover actionable insights to optimize marketing and supply chain strategies.
 📂 Dataset Details
