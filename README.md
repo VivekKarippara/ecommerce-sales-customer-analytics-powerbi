@@ -42,63 +42,66 @@ To ensure a clean and optimized relational model, the following data transformat
 •	Relationships  
              - Customers[Customer ID] → Orders[Customer ID]   
              - Sales Targets[Sales POC] → Orders[Sales POC]   
+
 Model Type  
 ⭐ Star Schema  
 
 **📈 Dashboard Features & Insights**
 
-🎯 Sales Target Analysis
+**🎯 Sales Target Analysis**
+
 Key Insights
-•	Target achievement status of Sales POCs 
-•	Sales Team target comparison 
-•	Sales Manager performance analysis 
-•	% Target completion by team & manager 
-KPIs
-•	Total Sales 
-•	Total Target 
-•	Achievement % 
-•	Repeat Customer Rate 
+
+•	Target achievement status of Sales POCs   
+•	Sales Team target comparison   
+•	Sales Manager performance analysis   
+•	% Target completion by team & manager   
+
+KPIs  
+•	Total Sales   
+•	Total Target   
+•	Achievement %   
+•	Repeat Customer Rate   
+
+Visuals Used  
+•	Donut Chart   
+•	Ribbon Chart   
+•	KPI Cards   
+•	Clustered Bar Chart   
+•	Matrix Table     
+•	Column Chart  
+
+Insights  
+•	Countries with highest sales   
+•	Highest average order value   
+•	Best performing sales managers    
+•	Order source preference by region   
+•	Total Sales by Team  
+•	Revenue fluctuations   
+•	Peak sales periods   
+•	Repeat Customer Rate   
+•	Age & gender segmentation   
+•	Non-ordering customer percentage   
+•	Most used order source across countries   
+
+**🛠️ Tools & Technologies**  
+•	Power BI Desktop   
+•	Power Query   
+•	DAX   
+•	Data Modeling   
+•	Excel   
 
 
-Visuals Used
-•	Donut Chart 
-•	Ribbon Chart 
-•	KPI Cards 
-•	Clustered Bar Chart 
-•	Matrix Table 
-•	Column Chart
+**📌 Key Business Outcomes**  
 
-Insights
-•	Countries with highest sales 
-•	Highest average order value 
-•	Best performing sales managers  
-•	Order source preference by region 
-•	Total Sales by Team
-•	Revenue fluctuations 
-•	Peak sales periods 
-•	Repeat Customer Rate 
-•	Age & gender segmentation 
-•	Non-ordering customer percentage 
-•	Most used order source across countries 
+•	✔ Identified high-performing sales teams  
+✔ Analyzed customer retention behaviour  
+✔ Detected geographic sales trends  
+✔ Evaluated sales target achievement  
+✔ Discovered customer segment opportunities  
+✔ Improved business storytelling through dashboards  
 
-🛠️ Tools & Technologies
-•	Power BI Desktop 
-•	Power Query 
-•	DAX 
-•	Data Modeling 
-•	Excel 
-
-
-
-•	📌 Key Business Outcomes
-•	✔ Identified high-performing sales teams
-✔ Analyzed customer retention behaviour
-✔ Detected geographic sales trends
-✔ Evaluated sales target achievement
-✔ Discovered customer segment opportunities
-✔ Improved business storytelling through dashboards
-•	________________________________________
-•	📷 Dashboard Preview
+###📷 Dashboard Preview  
 •	Add dashboard screenshots here
 •	Example:
 
