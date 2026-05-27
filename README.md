@@ -5,7 +5,7 @@
 📖 **Project Overview**  
 This project is an end-to-end data analysis and visualization solution built in Power BI for a global e-commerce dataset spanning 14 countries. The goal of this project is to analyze transactional data, evaluate sales manager performance against targets, understand regional purchasing behaviours, and uncover actionable insights to optimize marketing and supply chain strategies.
 
-📂 Dataset Details  
+📂 **Dataset Details**  
 The analysis is based on raw data provided in an Excel format, consisting of three main tables:
 1. Customers Table
 Contains demographic and segmentation data for registered users.
