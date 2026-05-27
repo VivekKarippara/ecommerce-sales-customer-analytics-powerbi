@@ -5,7 +5,7 @@
 ### 📖 Project Overview  
 This project is an end-to-end data analysis and visualization solution built in Power BI for a global e-commerce dataset spanning 14 countries. The goal of this project is to analyze transactional data, evaluate sales manager performance against targets, understand regional purchasing behaviours, and uncover actionable insights to optimize marketing and supply chain strategies.
 
-### 📂 Dataset Details 
+### 📂 Dataset Details (Source: Codingninjas)
 The analysis is based on raw data provided in an Excel format, consisting of three main tables:
 1. Customers Table  
 Contains demographic and segmentation data for registered users.  
@@ -93,7 +93,6 @@ Model Type
 ### 📌 Key Business Outcomes 
 
 ✔ Identified high-performing sales teams  
-✔ Analyzed customer retention behaviour  
 ✔ Detected geographic sales trends  
 ✔ Evaluated sales target achievement  
 ✔ Discovered customer segment opportunities  
@@ -105,6 +104,13 @@ Model Type
 ![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Sales_Target.png)
 ![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Customers.png)
 ![image alt](https://github.com/VivekKarippara/ecommerce-sales-customer-analytics-powerbi/blob/main/Dashboards/Sales_Team.png)
+
+### 👨‍💻 Author
+
+*Vivek Karippara*
+
+Aspiring Data Analyst
+
 
 ⭐ If you liked this project, consider giving it a star!
 
